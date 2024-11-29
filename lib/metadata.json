@@ -1,11 +1,31 @@
 {
   "vaultName": "Paimon",
-  "lastExport": 1732847341838,
+  "lastExport": 1732848047258,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-callout-block anp-callout-color-toggle anp-custom-checkboxes anp-speech-bubble anp-latex-inline-text anp-latex-block-text anp-toggle-scrollbars anp-hide-external-link-icon anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-decoration-toggle anp-bold-red anp-italic-green anp-highlight-yellow anp-colorful-frame anp-file-icons anp-collapse-folders anp-simple-rainbow-color-toggle anp-rainbow-file-toggle anp-full-rainbow-text-color-toggle-light anp-full-rainbow-text-color-toggle-dark anp-simple-rainbow-title-toggle anp-simple-rainbow-collapse-icon-toggle anp-simple-rainbow-indentation-toggle anp-simple-rainbow-icon-toggle anp-rainbow-subfolder-color-toggle anp-card-layout anp-card-shadows anp-card-layout-actions anp-card-layout-filebrowser anp-theme-ext-light anp-theme-ext-dark anp-theme-ext-amoled ctp-nord-light ctp-notion-dark",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Atlas/아이디어/시즌 레벨 성장 시스템.md",
+    "Atlas/참여 프로젝트/자작게임/_MOC_자작게임.md",
+    "Atlas/참여 프로젝트/자작게임/나이프 히어로(Knife Hero).md",
+    "Atlas/참여 프로젝트/자작게임/랜덤 스킬 배틀(Random Skill Battle).md",
+    "Atlas/참여 프로젝트/회사 프로젝트/_MOC_회사 프로젝트.md",
+    "Atlas/참여 프로젝트/회사 프로젝트/언데드네이션.md",
+    "Atlas/창작 스킬/Framer/1. Framer에서 스타일 적용한 구글 캘린더 임베드하기.md",
+    "Atlas/플레이한 게임/_MOC_플레이한 게임.md",
+    "Atlas/플레이한 게임/궁수의 전설.md",
+    "Atlas/플레이한 게임/Knife Hit.md",
+    "Atlas/플레이한 게임/Knife Hit - 레벨디자인.md",
+    "References/옵시디언 관련 링크.md",
+    "Resources/Excalidraw/Drawing 2024-11-29 02.06.25.excalidraw.md",
+    "Resources/Excalidraw/Knife Hit 레벨디자인 그래프.md",
+    "Resources/image/Pasted image 20241128220800.png",
+    "Resources/회사 프로젝트 테이블.loom",
+    "무제 파일.canvas",
+    "index.md",
+    "Open Web Calendar - CSS Guide.md",
+    "lib/media/pasted-image-20241128220800.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -73,189 +93,311 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1732847341838,
-      "sourceSize": 658,
+      "modifiedTime": 1732848047258,
+      "sourceSize": 27472,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1732847341838,
-      "sourceSize": 279,
+      "modifiedTime": 1732848047258,
+      "sourceSize": 1402,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 287735,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 126,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1732847341838,
+      "modifiedTime": 1732848047258,
       "sourceSize": 24897,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "Atlas/아이디어/시즌 레벨 성장 시스템.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 841,
+      "exportedPath": "atlas/아이디어/시즌-레벨-성장-시스템.html",
+      "dependencies": []
+    },
+    "Atlas/참여 프로젝트/자작게임/_MOC_자작게임.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 175,
+      "exportedPath": "atlas/참여-프로젝트/자작게임/_moc_자작게임.html",
+      "dependencies": []
+    },
+    "Atlas/참여 프로젝트/자작게임/나이프 히어로(Knife Hero).md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 231,
+      "exportedPath": "atlas/참여-프로젝트/자작게임/나이프-히어로(knife-hero).html",
+      "dependencies": []
+    },
+    "Atlas/참여 프로젝트/자작게임/랜덤 스킬 배틀(Random Skill Battle).md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 146,
+      "exportedPath": "atlas/참여-프로젝트/자작게임/랜덤-스킬-배틀(random-skill-battle).html",
+      "dependencies": []
+    },
+    "Atlas/참여 프로젝트/회사 프로젝트/_MOC_회사 프로젝트.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 288,
+      "exportedPath": "atlas/참여-프로젝트/회사-프로젝트/_moc_회사-프로젝트.html",
+      "dependencies": []
+    },
+    "Atlas/참여 프로젝트/회사 프로젝트/언데드네이션.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 0,
+      "exportedPath": "atlas/참여-프로젝트/회사-프로젝트/언데드네이션.html",
+      "dependencies": []
+    },
+    "Atlas/창작 스킬/Framer/1. Framer에서 스타일 적용한 구글 캘린더 임베드하기.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 157,
+      "exportedPath": "atlas/창작-스킬/framer/1.-framer에서-스타일-적용한-구글-캘린더-임베드하기.html",
+      "dependencies": []
+    },
+    "Atlas/플레이한 게임/_MOC_플레이한 게임.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 185,
+      "exportedPath": "atlas/플레이한-게임/_moc_플레이한-게임.html",
+      "dependencies": []
+    },
+    "Atlas/플레이한 게임/궁수의 전설.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 0,
+      "exportedPath": "atlas/플레이한-게임/궁수의-전설.html",
+      "dependencies": []
+    },
+    "Atlas/플레이한 게임/Knife Hit.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 589,
+      "exportedPath": "atlas/플레이한-게임/knife-hit.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241128220800.png"
+      ]
+    },
+    "Atlas/플레이한 게임/Knife Hit - 레벨디자인.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 507,
+      "exportedPath": "atlas/플레이한-게임/knife-hit-레벨디자인.html",
+      "dependencies": []
+    },
+    "References/옵시디언 관련 링크.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 121,
+      "exportedPath": "references/옵시디언-관련-링크.html",
+      "dependencies": []
+    },
+    "Resources/Excalidraw/Drawing 2024-11-29 02.06.25.excalidraw.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 3345,
+      "exportedPath": "resources/excalidraw/drawing-2024-11-29-02.06.25.excalidraw.html",
+      "dependencies": []
+    },
+    "Resources/Excalidraw/Knife Hit 레벨디자인 그래프.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 44460,
+      "exportedPath": "resources/excalidraw/knife-hit-레벨디자인-그래프.html",
+      "dependencies": []
+    },
+    "Resources/image/Pasted image 20241128220800.png": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 383881,
+      "exportedPath": "resources/image/pasted-image-20241128220800.png",
+      "dependencies": []
+    },
+    "Resources/회사 프로젝트 테이블.loom": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 9052,
+      "exportedPath": "resources/회사-프로젝트-테이블.loom",
+      "dependencies": []
+    },
+    "무제 파일.canvas": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 195,
+      "exportedPath": "무제-파일.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 68,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Open Web Calendar - CSS Guide.md": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 1315,
+      "exportedPath": "open-web-calendar-css-guide.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241128220800.png": {
+      "modifiedTime": 1732848047258,
+      "sourceSize": 383881,
+      "exportedPath": "lib/media/pasted-image-20241128220800.png",
       "dependencies": []
     }
   }

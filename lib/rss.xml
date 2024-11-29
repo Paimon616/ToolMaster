@@ -1,1 +1,131 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Paimon]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Paimon</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 29 Nov 2024 02:29:02 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 29 Nov 2024 02:29:01 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator></channel></rss>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Paimon]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Paimon</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 29 Nov 2024 02:40:50 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 29 Nov 2024 02:40:47 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[시즌 레벨 성장 시스템]]></title><description><![CDATA[<a class="tag" href="?query=tag:게임아이디어" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#게임아이디어</a> <a class="tag" href="?query=tag:성장시스템" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#성장시스템</a> <a class="tag" href="?query=tag:자작게임" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#자작게임</a> 
+ <br><a href=".?query=tag:게임아이디어" class="tag" target="_blank" rel="noopener nofollow">#게임아이디어</a> <a href=".?query=tag:성장시스템" class="tag" target="_blank" rel="noopener nofollow">#성장시스템</a> <a href=".?query=tag:자작게임" class="tag" target="_blank" rel="noopener nofollow">#자작게임</a> <br><br><br>매 시즌 마다 초기화 되는 레벨 시스템.<br>
+포트나이트의 시즌 레벨 처럼 초기화 되는 레벨이다.<br>
+기존의 시즌 레벨 보상이 재화 또는 꾸미기 보상을 제공했던 것에 추가로 리그 오브 레전드나 와우의 마스터리 같은 성장요소를 매 시즌 마다 개성적인 형태로 제공한다.<br><br><br>모든 서비스형 게임이 업데이트 마다 새로운 형태의 성장 요소를 제공한다.<br>
+이러한 형태의 단점은 다음과 같다.<br>
+<br>성장요소가 쌓이면서 파워인플레가 발생한다.
+<br>학습해야 하는 것들이 많아져 신규 유저의 유입을 방해한다.
+<br>이를 극복하고자, 매 시즌 마다 초기화 되는 시즌 레벨에 성장을 접목시키고자 한다.]]></description><link>atlas/아이디어/시즌-레벨-성장-시스템.html</link><guid isPermaLink="false">Atlas/아이디어/시즌 레벨 성장 시스템.md</guid><pubDate>Thu, 28 Nov 2024 22:49:27 GMT</pubDate></item><item><title><![CDATA[_MOC_자작게임]]></title><description><![CDATA[ 
+ <br><a data-href="랜덤 스킬 배틀(Random Skill Battle)" href="atlas/참여-프로젝트/자작게임/랜덤-스킬-배틀(random-skill-battle).html" class="internal-link" target="_self" rel="noopener nofollow">랜덤 스킬 배틀(Random Skill Battle)</a><br>
+<a data-href="나이프 히어로(Knife Hero)" href="atlas/참여-프로젝트/자작게임/나이프-히어로(knife-hero).html" class="internal-link" target="_self" rel="noopener nofollow">나이프 히어로(Knife Hero)</a><br>
+<a data-href="마시멜의 지옥철무쌍" href="마시멜의 지옥철무쌍" class="internal-link" target="_self" rel="noopener nofollow">마시멜의 지옥철무쌍</a><br>
+<a data-href="대나무 토끼" href="대나무 토끼" class="internal-link" target="_self" rel="noopener nofollow">대나무 토끼</a>]]></description><link>atlas/참여-프로젝트/자작게임/_moc_자작게임.html</link><guid isPermaLink="false">Atlas/참여 프로젝트/자작게임/_MOC_자작게임.md</guid><pubDate>Thu, 28 Nov 2024 23:38:03 GMT</pubDate></item><item><title><![CDATA[나이프 히어로(Knife Hero)]]></title><description><![CDATA[<a class="tag" href="?query=tag:게임아이디어" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#게임아이디어</a> <a class="tag" href="?query=tag:로그라이트" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#로그라이트</a> <a class="tag" href="?query=tag:모바일" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#모바일</a> 
+ <br><a href=".?query=tag:게임아이디어" class="tag" target="_blank" rel="noopener nofollow">#게임아이디어</a> <a href=".?query=tag:로그라이트" class="tag" target="_blank" rel="noopener nofollow">#로그라이트</a> <a href=".?query=tag:모바일" class="tag" target="_blank" rel="noopener nofollow">#모바일</a><br><br><br>하이퍼캐주얼 게임인 <a data-href="Knife Hit" href="atlas/플레이한-게임/knife-hit.html" class="internal-link" target="_self" rel="noopener nofollow">Knife Hit</a> 에 로그라이트 특징을 결합한 게임.<br>
+<br>플랫폼: 모바일
+<br>장르: 로그라이트
+<br><br><br><a data-href="Knife Hit" href="atlas/플레이한-게임/knife-hit.html" class="internal-link" target="_self" rel="noopener nofollow">Knife Hit</a>]]></description><link>atlas/참여-프로젝트/자작게임/나이프-히어로(knife-hero).html</link><guid isPermaLink="false">Atlas/참여 프로젝트/자작게임/나이프 히어로(Knife Hero).md</guid><pubDate>Thu, 28 Nov 2024 23:38:22 GMT</pubDate></item><item><title><![CDATA[개요]]></title><description><![CDATA[<a class="tag" href="?query=tag:오토배틀러" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#오토배틀러</a> <a class="tag" href="?query=tag:자작게임" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#자작게임</a> <a class="tag" href="?query=tag:게임아이디어" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#게임아이디어</a> <a class="tag" href="?query=tag:모바일" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#모바일</a> 
+ <br><a href=".?query=tag:오토배틀러" class="tag" target="_blank" rel="noopener nofollow">#오토배틀러</a> <a href=".?query=tag:자작게임" class="tag" target="_blank" rel="noopener nofollow">#자작게임</a> <a href=".?query=tag:게임아이디어" class="tag" target="_blank" rel="noopener nofollow">#게임아이디어</a> <a href=".?query=tag:모바일" class="tag" target="_blank" rel="noopener nofollow">#모바일</a> <br><br><br>12개의 스킬을 잘배치해서 싸우는 오토배틀러 게임.]]></description><link>atlas/참여-프로젝트/자작게임/랜덤-스킬-배틀(random-skill-battle).html</link><guid isPermaLink="false">Atlas/참여 프로젝트/자작게임/랜덤 스킬 배틀(Random Skill Battle).md</guid><pubDate>Thu, 28 Nov 2024 13:56:59 GMT</pubDate></item><item><title><![CDATA[_MOC_회사 프로젝트]]></title><description><![CDATA[<a class="tag" href="?query=tag:MOC" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#MOC</a> 
+ <br><a href=".?query=tag:MOC" class="tag" target="_blank" rel="noopener nofollow">#MOC</a> <br><br><br><a data-href="언데드 월드: 히어로 서바이벌" href="언데드 월드: 히어로 서바이벌" class="internal-link" target="_self" rel="noopener nofollow">언데드 월드: 히어로 서바이벌</a><br>
+<a data-href="언데드네이션" href="atlas/참여-프로젝트/회사-프로젝트/언데드네이션.html" class="internal-link" target="_self" rel="noopener nofollow">언데드네이션</a><br>
+<a data-href="골드러시" href="골드러시" class="internal-link" target="_self" rel="noopener nofollow">골드러시</a><br>
+<a data-href="던전다이스" href="던전다이스" class="internal-link" target="_self" rel="noopener nofollow">던전다이스</a><br>
+<a data-href="문명 온라인" href="문명 온라인" class="internal-link" target="_self" rel="noopener nofollow">문명 온라인</a><br>
+<a data-href="브루마블 온라인" href="브루마블 온라인" class="internal-link" target="_self" rel="noopener nofollow">브루마블 온라인</a><br>
+<a data-href="레전더 드래곤 배틀" href="레전더 드래곤 배틀" class="internal-link" target="_self" rel="noopener nofollow">레전더 드래곤 배틀</a><br><br><br><a data-href="PNIX-DEX" href="PNIX-DEX" class="internal-link" target="_self" rel="noopener nofollow">PNIX-DEX</a><br>
+<a data-href="Bagel" href="Bagel" class="internal-link" target="_self" rel="noopener nofollow">Bagel</a><br> 회사 프로젝트 테이블.loom]]></description><link>atlas/참여-프로젝트/회사-프로젝트/_moc_회사-프로젝트.html</link><guid isPermaLink="false">Atlas/참여 프로젝트/회사 프로젝트/_MOC_회사 프로젝트.md</guid><pubDate>Thu, 28 Nov 2024 23:46:14 GMT</pubDate></item><item><title><![CDATA[언데드네이션]]></title><description><![CDATA[ 
+ ]]></description><link>atlas/참여-프로젝트/회사-프로젝트/언데드네이션.html</link><guid isPermaLink="false">Atlas/참여 프로젝트/회사 프로젝트/언데드네이션.md</guid><pubDate>Thu, 28 Nov 2024 21:37:34 GMT</pubDate></item><item><title><![CDATA[1. Framer에서 스타일 적용한 구글 캘린더 임베드하기]]></title><description><![CDATA[<a class="tag" href="?query=tag:Framer" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Framer</a> 
+ <br><a href=".?query=tag:Framer" class="tag" target="_blank" rel="noopener nofollow">#Framer</a><br><br><br>
+<br>Google Calendar
+<br>Google Workspace
+<br>Open Web Calendar
+<br>Styled Calendar
+<br>Common Ninja
+]]></description><link>atlas/창작-스킬/framer/1.-framer에서-스타일-적용한-구글-캘린더-임베드하기.html</link><guid isPermaLink="false">Atlas/창작 스킬/Framer/1. Framer에서 스타일 적용한 구글 캘린더 임베드하기.md</guid><pubDate>Thu, 28 Nov 2024 23:57:37 GMT</pubDate></item><item><title><![CDATA[_MOC_플레이한 게임]]></title><description><![CDATA[<a class="tag" href="?query=tag:MOC" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#MOC</a> 
+ <br><a href=".?query=tag:MOC" class="tag" target="_blank" rel="noopener nofollow">#MOC</a><br><br><br><br><br>
+<br><a data-href="Knife Hit" href="atlas/플레이한-게임/knife-hit.html" class="internal-link" target="_self" rel="noopener nofollow">Knife Hit</a>
+<br><a data-href="궁수의 전설" href="atlas/플레이한-게임/궁수의-전설.html" class="internal-link" target="_self" rel="noopener nofollow">궁수의 전설</a>
+<br><a data-href="궁수의 전설2" href="궁수의 전설2" class="internal-link" target="_self" rel="noopener nofollow">궁수의 전설2</a>
+<br><a data-href="픽셀히어로" href="픽셀히어로" class="internal-link" target="_self" rel="noopener nofollow">픽셀히어로</a>
+<br>
+]]></description><link>atlas/플레이한-게임/_moc_플레이한-게임.html</link><guid isPermaLink="false">Atlas/플레이한 게임/_MOC_플레이한 게임.md</guid><pubDate>Thu, 28 Nov 2024 23:42:39 GMT</pubDate></item><item><title><![CDATA[궁수의 전설]]></title><description><![CDATA[ 
+ ]]></description><link>atlas/플레이한-게임/궁수의-전설.html</link><guid isPermaLink="false">Atlas/플레이한 게임/궁수의 전설.md</guid><pubDate>Thu, 28 Nov 2024 23:34:22 GMT</pubDate></item><item><title><![CDATA[Knife Hit]]></title><description><![CDATA[<a class="tag" href="?query=tag:모바일" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#모바일</a> <a class="tag" href="?query=tag:해본게임" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#해본게임</a> <a class="tag" href="?query=tag:하이퍼캐주얼게임" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#하이퍼캐주얼게임</a> 
+ <br><a href=".?query=tag:모바일" class="tag" target="_blank" rel="noopener nofollow">#모바일</a> <a href=".?query=tag:해본게임" class="tag" target="_blank" rel="noopener nofollow">#해본게임</a> <a href=".?query=tag:하이퍼캐주얼게임" class="tag" target="_blank" rel="noopener nofollow">#하이퍼캐주얼게임</a><br><br><br>빙글빙글 돌아가는 원형 도형에 나이프를 던져 박아넣는 게임.<br>
+Ketchapp 사에서 만들었다.<br><br><br>규칙은 심플하다.<br>
+각 스테이지 마다 빙글빙글 돌아가는 목표물이 있고, 지정된 나이프 수량이 있다.<br>
+지정된 나이프 수량을 모두 던져 목표물에 박아 넣으면 스테이지 클리어.<br>
+던져진 나이프가 이미 박혀있는 나이프에 부딪히면 게임오버 된다.<br><img alt="Pasted image 20241128220800.png" src="lib/media/pasted-image-20241128220800.png">]]></description><link>atlas/플레이한-게임/knife-hit.html</link><guid isPermaLink="false">Atlas/플레이한 게임/Knife Hit.md</guid><pubDate>Thu, 28 Nov 2024 23:40:01 GMT</pubDate><enclosure url="lib/media/pasted-image-20241128220800.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pasted-image-20241128220800.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Knife Hit - 레벨디자인]]></title><description><![CDATA[<a class="tag" href="?query=tag:KnifeHit" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#KnifeHit</a> <a class="tag" href="?query=tag:레벨디자인" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#레벨디자인</a> <a class="tag" href="?query=tag:작성중" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#작성중</a> 
+ <br><a href=".?query=tag:KnifeHit" class="tag" target="_blank" rel="noopener nofollow">#KnifeHit</a> <a href=".?query=tag:레벨디자인" class="tag" target="_blank" rel="noopener nofollow">#레벨디자인</a> <a href=".?query=tag:작성중" class="tag" target="_blank" rel="noopener nofollow">#작성중</a><br><br><br>Knife Hit 를 흥미롭게 만들어주는 요소.<br>
+각 레벨마다 회전 패턴이 달라 나이프 던지는 타이밍을 다르게 한다.<br><br><br>
+<br>일정 속도로 회전한다.
+<br>회전의 방향이 바뀐다.
+<br>회전의 속도가 바뀐다.
+
+<br>속도가 갑자기 바뀐다.
+<br>속도가 서서히 바뀐다.
+
+
+<br><br><br><img style="max-width:400px; " class="excalidraw-svg excalidraw-embedded-img excalidraw-canvas-immersive" src="blob://d96903ba-1c3f-4e98-a6d7-f82035bfdeb4" filesource="Resources/Excalidraw/Knife Hit 레벨디자인 그래프.md" w="400" draggable="false" oncanvas="false"><br><br><br>
+<br>회전 속도
+<br><br><br><a data-href="Knife Hit" href="atlas/플레이한-게임/knife-hit.html" class="internal-link" target="_self" rel="noopener nofollow">Knife Hit</a>]]></description><link>atlas/플레이한-게임/knife-hit-레벨디자인.html</link><guid isPermaLink="false">Atlas/플레이한 게임/Knife Hit - 레벨디자인.md</guid><pubDate>Thu, 28 Nov 2024 23:34:58 GMT</pubDate><enclosure url="blob:app://obsidian.md/d96903ba-1c3f-4e98-a6d7-f82035bfdeb4" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="blob:app://obsidian.md/d96903ba-1c3f-4e98-a6d7-f82035bfdeb4"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[옵시디언 관련 링크]]></title><description><![CDATA[<a class="tag" href="?query=tag:웹링크" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#웹링크</a> 
+ <br><a href=".?query=tag:웹링크" class="tag" target="_blank" rel="noopener nofollow">#웹링크</a><br>옵시디언 활용법 정리 블로그 (옵시디언 출판 웹)<br>
+<a rel="noopener nofollow" class="external-link" href="https://secondbrain.analysisman.com/start" target="_blank">https://secondbrain.analysisman.com/start</a>]]></description><link>references/옵시디언-관련-링크.html</link><guid isPermaLink="false">References/옵시디언 관련 링크.md</guid><pubDate>Thu, 28 Nov 2024 13:02:39 GMT</pubDate></item><item><title><![CDATA[툴마스터]]></title><description><![CDATA[ 
+ <br><br><br>게임메이커<br>
+유니티<br>
+피그마<br>
+프레이머]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Fri, 29 Nov 2024 02:39:51 GMT</pubDate></item><item><title><![CDATA[Open Web Calendar - CSS Guide]]></title><description><![CDATA[<a class="tag" href="?query=tag:OpenWebCalendar" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#OpenWebCalendar</a> <a class="tag" href="?query=tag:CSS" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CSS</a> 
+ <br><a href=".?query=tag:OpenWebCalendar" class="tag" target="_blank" rel="noopener nofollow">#OpenWebCalendar</a> <a href=".?query=tag:CSS" class="tag" target="_blank" rel="noopener nofollow">#CSS</a><br>/* 이벤트 스타일 */
+.event {
+  color: #444444;
+  box-shadow: 2px 2px 2px 0px rgba(200,100,50,0.5);
+  border: 1px solid rgba(200,100,50,0.5);
+  padding: 2px;
+}
+
+/* 이벤트 라인 스타일 */
+.dhx_cal_event_line.dhx_cal_event_line_start, .dhx_cal_event_line.dhx_cal_event_line_end{
+  border-radius: 10px;
+  padding-left: 7px;
+}
+
+/* 작은 툴팁 스타일 */
+.dhtmlXTooltip.tooltip,.dhx_cal_quick_info {
+  border-radius: 10px;
+}
+
+/* 탭 스타일 */
+.dhx_cal_tab {
+  border-radius: 7px;
+  color: #555555;
+  background-color: #ffffff;
+  border: 1px solid rgba(200,100,50,0.5);
+}
+
+/* 활성화 탭 스타일 */
+.dhx_cal_tab.active {
+  color: #444444;
+}
+
+/* 비활성 탭 호버 스타일 */
+.dhx_cal_tab:not(.active):hover {
+  background-color: #ff00ff;
+}
+
+/* 비활성 탭 스타일 */
+.dhx_cal_tab:not(.active), .dhx_cal_tab_standalone:not(.active) {
+  color: #dd8811;
+}
+
+/* 이벤트 블록 */
+.dhx_cal_navline {
+  background-color: #ffaa00;
+}
+
+/* 이벤트 블록 */
+.dhx_cal_prev_button:before {
+  color: #ffffff;
+}
+
+/* 이벤트 블록 */
+.dhx_cal_next_button:before {
+  color: #ffffff;
+}
+
+/* 이벤트 블록 */
+.dhx_cal_navline .dhx_cal_today_button {
+  border-radius: 7px;
+  color: #555555;
+  background-color: #ffffff;
+  border: 1px solid rgba(200,100,50,0.5);
+}
+
+]]></description><link>open-web-calendar-css-guide.html</link><guid isPermaLink="false">Open Web Calendar - CSS Guide.md</guid><pubDate>Fri, 29 Nov 2024 00:11:12 GMT</pubDate></item></channel></rss>
